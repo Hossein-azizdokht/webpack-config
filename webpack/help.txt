@@ -1,0 +1,10 @@
+
+there is two mod for compile config in web pack
+
+---- 1. dev mode
+---- 2. production mode
+----
+---- webpack.common.js : COMMON CONFIGS
+---- webpack.config.js : WEBACK-RUN-CONFIGS
+---- webpack.dev.js    : DEVELOPMENT MODE CONFIG
+---- webpack.prod.js    : PRODUCTION MODE CONFIG
